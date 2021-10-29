@@ -6,6 +6,7 @@ In The Name Of God
 
 
 https://user-images.githubusercontent.com/47852354/139438605-0bb9766c-381a-4f46-a0d6-8a40c1356666.mp4
+
 Kinematics, dynamics, and control system of a new 5-degree-of-freedom hybrid robot manipulator
 
 
