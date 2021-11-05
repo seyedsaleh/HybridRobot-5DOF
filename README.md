@@ -2,7 +2,7 @@
 
 # A 5-degree-of-freedom hybrid robot manipulator
 
-## Team members: Mohammadsaleh Tabatabaei - Salman Amimotlaq - Shima Naseri
+## Team members: Mohammadsaleh Tabatabaei - [Salman Amimotlaq](http://github.com/SMotlaq) - Shima Naseri
 
 **Course: Introduction to Robotics | Supervisor: Dr. Mohammad A. Khosravi**
 
