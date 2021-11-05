@@ -1,8 +1,8 @@
 <i> In The Name Of God </i> 
 
-# A 5-degree-of-freedom hybrid robot manipulator
+# A 5-degree-of-freedom Hybrid Robot Manipulator
 
-## Team members: Mohammadsaleh Tabatabaei - [Salman Amimotlaq](http://github.com/SMotlaq) - Shima Naseri
+## Team members: [Mohammadsaleh Tabatabaei](http://github.com/seyedsaleh) - [Salman Amimotlaq](http://github.com/SMotlaq) - Shima Naseri
 
 **Course: Introduction to Robotics | Supervisor: Dr. Mohammad A. Khosravi**
 
