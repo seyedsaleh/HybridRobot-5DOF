@@ -19,7 +19,7 @@
   <p align="center">
     A 5-degree-of-freedom Hybrid Robot Manipulator
     <br />
-    <b> Kinematics, dynamics, and control system of a new 5-degree-of-freedom hybrid robot manipulator </b>
+    <b> Kinematics, dynamics, and control system of a new 5-degree-of-freedom hybrid robot manipulator 🤖 </b>
     <br />
     <a href="https://github.com/seyedsaleh/music-generator"><strong>Explore the docs »</strong></a>
     <br />
