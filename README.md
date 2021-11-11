@@ -21,7 +21,7 @@
     <br />
     <b> Kinematics, dynamics, and control system of a new 5-degree-of-freedom hybrid robot manipulator 🤖 </b>
     <br />
-    <a href="https://github.com/seyedsaleh/music-generator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/seyedsaleh/HybridRobot-5DOF"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/seyedsaleh/HybridRobot-5DOF/issues">Report Bug & Request Feature</a>
@@ -63,10 +63,14 @@ Hybrid robotic application is a continuously developing field, as hybrid robot m
 
 ### Built With
 
-Major frameworks/libraries used to this project:
+Major softwares/libraries used to this project:
 
-* [MATLAB]
-* [Simulink]
+* [MATLAB 2020a](https://www.mathworks.com/products/matlab.html)
+  * Robotics System Toolbox
+  * Control System Toolbox
+  * Symbolic Math Toolbox
+* [Simulink v10](https://www.mathworks.com/products/simulink.html)
+* [Solidworks](https://www.solidworks.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
