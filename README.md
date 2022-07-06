@@ -9,7 +9,7 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO  -->
 <br />
 <div align="center">
   <i align="center"> In The Name Of God </i> 
@@ -130,13 +130,9 @@ Major softwares/libraries used to this project:
 ## Contact
 
 Seyedmohammadsaleh Mirzatabatabaei - [@seyedsaleh](https://github.com/seyedsaleh) - seyedsaleh.edu@gmail.com
-
 Salman Amimotlagh - [@SMotlaq](https://github.com/SMotlaq) - pilot.motlaq@gmail.com
-
 Shima Naseri - [@shimanaseri](https://github.com/shimanaseri) - shima.s.naseri@gmail.com
-
 Project Link: [https://github.com/seyedsaleh/HybridRobot-5DOF](https://github.com/seyedsaleh/HybridRobot-5DOF)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
